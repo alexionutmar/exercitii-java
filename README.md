@@ -1,5 +1,3 @@
-# exercitii-java
+# exercises-java-basics
 
-## exercises for learning java
-
-all exercises are from the book: Introduction to Java Programming, Brief Version, 11th Global Edition
+concepts and exercises from the book: Introduction to Java Programming, Brief Version, 11th Global Edition
